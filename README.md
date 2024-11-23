@@ -38,9 +38,9 @@ Built with a robust and scalable front-end and back-end, the application offers 
 Prerequisites
 Ensure you have the following installed:
 
-Node.js (v16 or higher)
-Python (v3.9 or higher)
-pip (Python package manager)
+* Node.js (v16 or higher)
+* Python (v3.9 or higher)
+* pip (Python package manager)
 
 
 **Steps** : 
